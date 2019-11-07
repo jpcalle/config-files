@@ -2,7 +2,7 @@ set nocompatible "Deshabilitar compatibilidad con vi
 set t_Co=256
 set fileencoding=utf-8
 
-"colorscheme evening
+colorscheme solarized
 
 set tabstop=4 "Remplazar los TAB por 4 espacios
 set smarttab
